@@ -9,9 +9,10 @@
 Hey there! I'm **Miloš' student**, passionate about crafting elegant and efficient code. I love exploring new technologies and building cool projects. Currently diving deep into:
 
 - **Java** ☕ | **Python** 🐍 | **JavaScript** ⚡
-- **HTML & CSS** 🎨 | **React** ⚛️ | **Rust** 🦀
+- **HTML & CSS** 🎨
 - **Arch Linux** 🏴‍☠️ | **Debian** 🐧 | **Windows 11** 🏆 Enthusiast
-- 
+- **Learning :** **React** ⚛️ | **Rust** 🦀
+
 ## 🔥 What I Do
 
 - 💻 Full-stack development

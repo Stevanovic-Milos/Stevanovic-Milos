@@ -1,5 +1,5 @@
 # 🚀 Welcome to My GitHub Profile!
-<p align="center">
+<p align="left">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG80NGZoOHFhejhnaWg2eHpjMTg5ZXZoaXZmZzYwcGNsdmxoeWFqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif" width="400" />
 </p>
 

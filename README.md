@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub Profile!
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7bu3X6hYxDlypKvK/giphy.gif" width="400" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
 </p>
 
 

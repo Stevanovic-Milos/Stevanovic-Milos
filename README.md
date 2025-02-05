@@ -11,7 +11,6 @@ Hey there! I'm **Miloš' student**, passionate about crafting elegant and effici
 - **Java** ☕ | **Python** 🐍 | **JavaScript** ⚡
 - **HTML & CSS** 🎨
 - **Arch Linux** 🏴‍☠️ | **Debian** 🐧 | **Windows 11** 🏆 Enthusiast
-- **Learning :** **React** ⚛️ | **Rust** 🦀
 
 ## 🔥 What I Do
 

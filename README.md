@@ -1,10 +1,6 @@
 # 🚀 Welcome to My GitHub Profile!
 
-![Banner](https://source.unsplash.com/1600x400/?technology,coding)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="500" height="300" />
-</p>
+![Banner](https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=1600&q=80)
 
 ## 🌟 About Me
 
@@ -24,7 +20,7 @@ Hey there! I'm **Miloš' student**, passionate about crafting elegant and effici
 ## 🖥️ My Workstation
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l2R09NqF3hTniExxi/giphy.gif" width="400" height="250" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
 </p>
 
 ## 📈 GitHub Stats

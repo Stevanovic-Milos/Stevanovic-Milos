@@ -1,4 +1,7 @@
 # 🚀 Welcome to My GitHub Profile!
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
+</p>
 
 ## 🌟 About Me
 
@@ -7,10 +10,7 @@ Hey there! I'm **Miloš' student**, passionate about crafting elegant and effici
 - **Java** ☕ | **Python** 🐍 | **JavaScript** ⚡
 - **HTML & CSS** 🎨 | **React** ⚛️ | **Rust** 🦀
 - **Arch Linux** 🏴‍☠️ | **Debian** 🐧 | **Windows 11** 🏆 Enthusiast
-- <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" />
-</p>
-
+- 
 ## 🔥 What I Do
 
 - 💻 Full-stack development

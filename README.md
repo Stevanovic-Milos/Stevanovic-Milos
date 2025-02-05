@@ -24,9 +24,4 @@ Hey there! I'm **Miloš' student**, passionate about crafting elegant and effici
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stevanovic-Milos&show_icons=true&theme=radical)
 
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YourProfile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/YourProfile)  
-
 💡 **Motto:** *Code. Learn. Innovate.*

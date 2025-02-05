@@ -1,7 +1,4 @@
 # 🚀 Welcome to My GitHub Profile!
-
-![Banner](https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1600&q=80)
-
 ## 🌟 About Me
 
 Hey there! I'm **Miloš' student**, passionate about crafting elegant and efficient code. I love exploring new technologies and building cool projects. Currently diving deep into:
@@ -25,7 +22,7 @@ Hey there! I'm **Miloš' student**, passionate about crafting elegant and effici
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stevanovic-Milos&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 

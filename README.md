@@ -27,6 +27,6 @@ Hey there! I'm **Miloš' student**, passionate about crafting elegant and effici
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stevanovic-Milos&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stevanovic-Milos&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight&border_radius=20&include_all_commits=true)
 
 💡 **Motto:** *Code. Learn. Innovate.*

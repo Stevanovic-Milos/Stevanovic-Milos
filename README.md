@@ -17,7 +17,6 @@ Hey there! I'm **Miloš' student**, passionate about crafting elegant and effici
 - 💻 Full-stack development
 - 🚀 Learning & experimenting with React and Rust
 - 🔧 Building efficient and clean code
-- 🎯 Open-source contributions
 - 🎮 Exploring game development & AI
 
 ## 🖥️ My Workstation

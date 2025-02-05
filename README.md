@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub Profile!
 
-![Banner](https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?w=1600&q=80)
+![Banner](https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1600&q=80)
 
 ## 🌟 About Me
 

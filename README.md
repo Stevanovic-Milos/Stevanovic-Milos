@@ -1,16 +1,39 @@
-## Hi there 👋
+# 🚀 Welcome to My GitHub Profile!
 
-<!--
-**Stevanovic-Milos/Stevanovic-Milos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://source.unsplash.com/1600x400/?technology,coding)
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="500" height="300" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+Hey there! I'm **Miloš' student**, passionate about crafting elegant and efficient code. I love exploring new technologies and building cool projects. Currently diving deep into:
+
+- **Java** ☕ | **Python** 🐍 | **JavaScript** ⚡
+- **HTML & CSS** 🎨 | **React** ⚛️ | **Rust** 🦀
+- **Arch Linux** 🏴‍☠️ & **Debian** 🐧 Enthusiast
+
+## 🔥 What I Do
+
+- 💻 Full-stack development
+- 🚀 Learning & experimenting with React and Rust
+- 🔧 Building efficient and clean code
+- 🎯 Open-source contributions
+
+## 🖥️ My Workstation
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l2R09NqF3hTniExxi/giphy.gif" width="400" height="250" />
+</p>
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YourProfile)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/YourProfile)  
+
+💡 **Motto:** *Code. Learn. Innovate.*

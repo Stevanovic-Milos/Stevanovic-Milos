@@ -1,8 +1,7 @@
 # 🚀 Welcome to My GitHub Profile!
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/4587/screenshots/5859879/media/1b49690fd3ac4671977225a578bafdd3.gif" width="400" />
+  <img src="https://cdn.dribbble.com/users/1081336/screenshots/4433647/media/7592e4deaf3bdb0efaa5d2ac27f8cbef.gif" width="400" />
 </p>
-
 
 
 

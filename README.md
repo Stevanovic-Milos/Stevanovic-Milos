@@ -22,7 +22,7 @@ Hey there! I'm **Miloš' student**, passionate about crafting elegant and effici
 
 ## 🖥️ My Workstation
 
-- 🚀 **OS:** Arch Linux, Debian, Windows 11
+- 🚀 **OS:** Arch Linux, Windows 11
 - 🖥️ **Main Tools:** VS Code, JetBrains Suite, Neovim
 
 ## 📈 GitHub Stats

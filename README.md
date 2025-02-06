@@ -25,7 +25,7 @@ Hey there! I'm **Miloš' student**, passionate about crafting elegant and effici
 - 🖥️ **Main Tools:** VS Code, JetBrains Suite, Neovim
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stevanovic-Milos&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=github_dark&border_radius=10&include_all_commits=true&line_height=25&border=2&border_color=ffffff)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stevanovic-Milos&show_icons=true&count_private=true&hide=prs&theme=transparent&border_radius=15&include_all_commits=true&line_height=30&bg_color=00000000&hide_border=true)
 
 
 

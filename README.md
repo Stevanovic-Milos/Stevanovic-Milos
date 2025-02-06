@@ -28,10 +28,8 @@ Hey there! I'm **Miloš' student**, passionate about crafting elegant and effici
 ## 📈 GitHub Stats
 <picture>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stevanovic-Milos&show_icons=true&count_private=true&hide=prs&theme=dark&border_radius=15&include_all_commits=true&line_height=30&bg_color=00000000&hide_border=true#gh-dark-mode-only)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stevanovic-Milos&show_icons=true&count_private=true&hide=prs&theme=light&border_radius=15&include_all_commits=true&line_height=30&bg_color=00000000&hide_border=true#gh-light-mode-only)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stevanovic-Milos&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=github_dark&border_radius=10&include_all_commits=true&line_height=25&border=2&border_color=ffffff)
 
 
-💡 **Motto:** *Code. Learn. Innovate.*
 💡 **Motto:** *Code. Learn. Innovate.*
 

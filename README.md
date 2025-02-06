@@ -26,7 +26,17 @@ Hey there! I'm **Miloš' student**, passionate about crafting elegant and effici
   
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stevanovic-Milos&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default&border_radius=10&include_all_commits=true&line_height=25&border=2&border_color=ffffff)
+<script>
+  const theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+  const statsImage = `https://github-readme-stats.vercel.app/api?username=Stevanovic-Milos&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=${theme}&border_radius=10&include_all_commits=true&line_height=25&border=2&border_color=ffffff`;
+  document.getElementById('github-stats').src = statsImage;
+</script>
+<img id="github-stats" src="" alt="GitHub Stats">
+<!-- Dark mode version -->
+![GitHub Stats Dark](https://github-readme-stats.vercel.app/api?username=Stevanovic-Milos&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark&border_radius=10&include_all_commits=true&line_height=25&border=2&border_color=ffffff)
+
+<!-- Light mode version -->
+![GitHub Stats Light](https://github-readme-stats.vercel.app/api?username=Stevanovic-Milos&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=light&border_radius=10&include_all_commits=true&line_height=25&border=2&border_color=ffffff)
 
 
 💡 **Motto:** *Code. Learn. Innovate.*

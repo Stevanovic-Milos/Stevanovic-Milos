@@ -25,7 +25,7 @@ Hey there! I'm **Miloš' student**, passionate about crafting elegant and effici
 
 ## 📈 GitHub Stats
 
-![GitHub Stats - Dark Mode](https://github-readme-stats.vercel.app/api?username=Stevanovic-Milos&show_icons=true&count_private=true&hide=prs&theme=github_dark&border_radius=15&include_all_commits=true&line_height=30&bg_color=00000000&hide_border=true)
-![GitHub Stats - Light Mode](https://github-readme-stats.vercel.app/api?username=Stevanovic-Milos&show_icons=true&count_private=true&hide=prs&theme=github_light&border_radius=15&include_all_commits=true&line_height=30&bg_color=00000000&hide_border=true)
+![GitHub Stats Dark Mode](https://github-readme-stats.vercel.app/api?username=Stevanovic-Milos&show_icons=true&count_private=true&hide=prs&theme=github_dark&border_radius=15&include_all_commits=true&line_height=30&bg_color=00000000&hide_border=true#gh-dark-mode-only)
+![GitHub Stats Light Mode](https://github-readme-stats.vercel.app/api?username=Stevanovic-Milos&show_icons=true&count_private=true&hide=prs&theme=github_light&border_radius=15&include_all_commits=true&line_height=30&bg_color=00000000&hide_border=true#gh-light-mode-only)
 
 💡 **Motto:** *Code. Learn. Innovate.*

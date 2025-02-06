@@ -33,3 +33,5 @@ Hey there! I'm **Miloš' student**, passionate about crafting elegant and effici
 
 
 💡 **Motto:** *Code. Learn. Innovate.*
+💡 **Motto:** *Code. Learn. Innovate.*
+
